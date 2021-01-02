@@ -8,11 +8,11 @@ int main (void)
 
 
     printf("***************************\n");
-    printf(" 1 --> Area of Circle\n");
-    printf(" 2 --> Area of Rectangle\n");
-    printf(" 3 --> Area of Triangle\n");
-    printf(" 4 --> Volume of Cone\n");
-    printf(" 5 --> Volume of Sphere\n");
+    printf("Area of Circle    --> 1\n");
+    printf("Area of Rectangle --> 2\n");
+    printf("Area of Triangle  --> 3\n");
+    printf("Volume of Cone    --> 4\n");
+    printf("Volume of Sphere  --> 5\n");
     printf("***************************\n");
     printf("Enter Respective number\n");
     scanf("%d", &num);
