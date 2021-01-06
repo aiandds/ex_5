@@ -7,13 +7,13 @@ int main (void)
     pi = 3.14159;
 
 
-    printf("***************************\n");
+    printf("#############################\n");
     printf("Area of Circle    --> 1\n");
     printf("Area of Rectangle --> 2\n");
     printf("Area of Triangle  --> 3\n");
     printf("Volume of Cone    --> 4\n");
     printf("Volume of Sphere  --> 5\n");
-    printf("***************************\n");
+    printf("#############################\n");
     printf("Enter Respective number\n");
     scanf("%d", &num);
 
